@@ -5,14 +5,14 @@ layout : top-left
 #logo-position : top-right
 
 # Look-and-Feel
-theme : night
-# theme-override : assets/css/PITCHME.css
 #highlight : ir-black
-theme-headline : [ "Ubuntu", "#1C1C1C", "none", "yellow" ]
-theme-text : [ "Ubuntu", "#1C1C1C", "none", "yellow" ]
-theme-code : [ "Source Code Pro" ]
 highlight: dracula
+theme : night
+theme-override : assets/css/PITCHME.css
+theme-headline : [ "Lato", "#1C1C1C", "none", "yellow" ]
+theme-text : [ "Lato", "#1C1C1C", "none", "yellow" ]
 code-line-numbers : true
+theme-code : [ "Source Code Pro" ]
 
 # Behavior
 transition : none
