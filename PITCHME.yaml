@@ -1,0 +1,15 @@
+# Layout
+layout : top-left
+
+#logo : assets/img/logo.png
+#logo-position : top-right
+
+# Look-and-Feel
+theme : night
+# theme-override : assets/css/PITCHME.css
+#highlight : ir-black
+highlight: dracula
+code-line-numbers : true
+
+# Behavior
+transition : none
