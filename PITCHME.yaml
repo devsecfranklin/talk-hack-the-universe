@@ -8,6 +8,9 @@ layout : top-left
 theme : night
 # theme-override : assets/css/PITCHME.css
 #highlight : ir-black
+theme-headline : [ "Ubuntu", "#1C1C1C", "none", "yellow" ]
+theme-text : [ "Ubuntu", "#1C1C1C", "none", "yellow" ]
+theme-code : [ "Source Code Pro" ]
 highlight: dracula
 code-line-numbers : true
 
