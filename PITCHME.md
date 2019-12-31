@@ -17,9 +17,8 @@ Amateur Radio Astronomy
 Disclaimer
 @snapend
 
-@snap[south-west span-200 text-left text-06 text-yellow]
+@snap[south-west span-200 text-left text-08 text-yellow]
 @ul[circles]
-
 - I am not a physicist, cosmologist, chemist or other field related to RA.
 - My work experience and degrees are all technology related.
 - My interest and experience with RA are purely amatuer/hobby related.
@@ -28,7 +27,6 @@ Disclaimer
 - This is a new deck, so I guess that makes you my Guinea Pig. You’re welcome.
 - The Otis (onus) for discretionary use of the information presented herein is your responsibility.
 - Also I’m not a lawyer, so this disclaimer is invalid.
-
 @ulend
 @snapend
 
@@ -37,3 +35,15 @@ Disclaimer
 @snapend
 
 ---?image=assets/img/background.png
+@title[Thank You]
+
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+Thank You
+@snapend
+
+@snap[south-west span-200 text-left text-08 text-yellow]
+@ul[circles]
+- [GitPitch Slide Decks for Developers](https://gitpitch.com/pricing)
+- The [source for these slides is available here](https://github.com/hotpeppersec/hack_the_universe) on my GitHub account (@hotpeppersec)
+@ulend
+@snapend
