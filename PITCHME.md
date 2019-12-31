@@ -1,9 +1,11 @@
 ---?image=assets/img/background.png
 @title[Hack The Universe]
 
-# Hack the Universe
+@snap[north-west span-100 text-17 text-bold text-left text-yellow]
+Hack the Universe
+@snapend
 
-@snap[west span-45 text-center]
+@snap[west span-100 text-left text-yellow]
 Amateur Radio Astronomy
 @snapend
 
