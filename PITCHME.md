@@ -1,14 +1,21 @@
 ---?image=assets/img/background.png
-
 @title[Hack The Universe]
+
+@snap[north text-yellow]
 
 # Hack the Universe
 
-## Amateur Radio Astronomy
+### Amateur Radio Astronomy
+
+@snapend
 
 ---?image=assets/img/background.png
+@title[Disclaimer]
+@transition[zoom-in fade-out]
 
 ## Disclaimer
+
+@ul[circles]
 
 - I am not a physicist, cosmologist, chemist or other field related to RA.
 - My work experience and degrees are all technology related.
@@ -19,7 +26,9 @@
 - The Otis (onus) for discretionary use of the information presented herein is your responsibility.
 - Also I’m not a lawyer, so this disclaimer is invalid.
 
-@snap[south]
+@ulend
+
+@snap[north-east]
 ![IMAGE](assets/img/sea_lawyer.png)
 @snapend
 
