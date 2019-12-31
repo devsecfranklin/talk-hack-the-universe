@@ -1,20 +1,21 @@
 ---?image=assets/img/background.png
 @title[Hack The Universe]
 
-@snap[north text-yellow]
-
 # Hack the Universe
 
-### Amateur Radio Astronomy
-
+@snap[west span-45 text-center]
+Amateur Radio Astronomy
 @snapend
 
 ---?image=assets/img/background.png
 @title[Disclaimer]
 @transition[zoom-in fade-out]
 
-## Disclaimer
+@snap[north-west text-yellow]
+Disclaimer
+@snapend
 
+@snap[south-west text-yellow]
 @ul[circles]
 
 - I am not a physicist, cosmologist, chemist or other field related to RA.
@@ -27,6 +28,7 @@
 - Also I’m not a lawyer, so this disclaimer is invalid.
 
 @ulend
+@snapend
 
 @snap[north-east]
 ![IMAGE](assets/img/sea_lawyer.png)
