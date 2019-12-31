@@ -1,7 +1,7 @@
 ---?image=assets/img/background.png
 @title[Hack The Universe]
 
-@snap[north-west span-100 text-17 text-bold text-left text-yellow]
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
 Hack the Universe
 @snapend
 
@@ -17,7 +17,7 @@ Amateur Radio Astronomy
 Disclaimer
 @snapend
 
-@snap[south-west text-yellow]
+@snap[south-west span-50 text-12 text-yellow]
 @ul[circles]
 
 - I am not a physicist, cosmologist, chemist or other field related to RA.
