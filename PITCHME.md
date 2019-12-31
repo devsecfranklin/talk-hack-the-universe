@@ -5,7 +5,7 @@
 Hack the Universe
 @snapend
 
-@snap[west span-100 text-left text-yellow]
+@snap[west span-100 text-center text-yellow]
 Amateur Radio Astronomy
 @snapend
 
@@ -17,7 +17,7 @@ Amateur Radio Astronomy
 Disclaimer
 @snapend
 
-@snap[south-west span-50 text-12 text-yellow]
+@snap[south-west span-150 text-left text-yellow]
 @ul[circles]
 
 - I am not a physicist, cosmologist, chemist or other field related to RA.
