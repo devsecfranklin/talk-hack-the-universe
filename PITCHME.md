@@ -17,7 +17,7 @@ Amateur Radio Astronomy
 Disclaimer
 @snapend
 
-@snap[south-west span-150 text-left text-yellow]
+@snap[south-west span-200 text-left text-06 text-yellow]
 @ul[circles]
 
 - I am not a physicist, cosmologist, chemist or other field related to RA.
