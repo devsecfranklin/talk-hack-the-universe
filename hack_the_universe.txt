@@ -1,0 +1,40 @@
+## Title of presentation
+
+Hack The Universe
+
+## Contestant(s) name
+
+Franklin Diaz 
+
+## Abstract
+
+I will quickly explain some background on the relatively young scientific field of Radio 
+Astronomy and how it overlaps with things that hold the attention of hackers and tech nerds. 
+I will spend more time in exploration of the intersection of things like Ham Radio, RF 
+Engineering, and Astronomy where we find this fascinating way of observing things about our 
+Universe through the lens of RF signals, chemistry, spectroscopy, inteferometry and more! 
+
+## Bio
+
+Franklin Diaz is a Security Engineer on the Threat Detection Engineering team at Salesforce.com 
+where he builds security tools, pipelines, and environments to capture and process security data 
+using the latest technologies. He holds an MS in Computer Information Systems from Northwestern 
+and an MS from DePaul University, Chicago in Network Engineering/Network Security as well as a 
+BS in Computer Science. Franklin is the lead organizer for the annual BSidesIndy security 
+conference.
+
+## Detailed Description
+
+The first few minutes of my talk will cover some background on RA and a few of its pioneers, 
+amateur and otherwise. I like the fact that significant contributions to this field have been
+made by amateurs. Then I will spend a larger block of time discussing the tools of RA, 
+facilities and organizations that amateur RA enthusiasts can access for free, and projects & 
+tech that are accessible and fun even in the home lab environment. 
+
+## Has this information been presented before? Where?
+
+  No. 
+
+## Do you already have a ticket to ShmooCon?
+
+  Yes.

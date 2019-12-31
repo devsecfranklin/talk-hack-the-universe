@@ -6,7 +6,7 @@
 
 ## Amateur Radio Astronomy
 
----
+---?image=assets/img/background.png
 
 ## Disclaimer
 
@@ -23,4 +23,4 @@
 ![IMAGE](assets/img/sea_lawyer.png)
 @snapend
 
----
+---?image=assets/img/background.png
