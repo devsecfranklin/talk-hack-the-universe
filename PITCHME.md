@@ -96,6 +96,29 @@ Ties to Hacker Culture
 @snapend
 
 ---?image=assets/img/background.png
+@title[Why]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Why is RA Important?
+@snapend
+
+@snap[west span-100 text-left text-07 text-yellow]
+@ul[circles](false)
+
+- More than just a quest to see what’s out there.
+- We don’t know what we don’t know.
+- The BIG questions
+  - Where did we come from?
+  - What’s in store for us as a species?
+- Are there ways we can amass knowledge to enable technologies that will enhance and improve our lives?
+- Complements optical astronomy.
+  - Being able to “see” invisible gasses.
+  - Detection of objects whose light is easily obscured by cosmic dust.
+
+@ulend
+@snapend
+
+---?image=assets/img/background.png
 @title[Thank You]
 
 @snap[north-west span-100 text-20 text-bold text-center text-yellow]
