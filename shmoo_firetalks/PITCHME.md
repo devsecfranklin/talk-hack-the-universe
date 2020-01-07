@@ -28,13 +28,13 @@ So What's This Talk About?
 @ulend
 @snapend
 
-@snap[east]
+@snap[south-east]
 ![HACK](https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif)
 
 ---?image=assets/img/background.png
 @title[What]
 
-@snap[west span-200 text-left text-08 text-yellow]
+@snap[west span-100 text-left text-08 text-yellow]
 @ul[circles](false)
 
 - Radio astronomy is the study of celestial objects that give off radio waves.
