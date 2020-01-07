@@ -126,11 +126,13 @@ Magnitude of Time and Space
 @snapend
 
 @snap[west span-100 text-left text-07 text-yellow]
+<p>
 The shape/size of the universe is a factor of it’s density…
-
+</p><p>
 “The simplest version of the inflationary theory, an extension of the Big Bang theory, predicts that the density of the universe is very close to the critical density, and that the geometry of the universe is flat, like a sheet of paper.” [source](https://map.gsfc.nasa.gov/universe/uni_shape.html)
-
+</p><p>
 The scientific consensus is that we live in a flat, infinite universe.
+</p>
 @snapend
 
 @snap[east]
@@ -145,10 +147,15 @@ Thank You
 @snapend
 
 @snap[south-west span-200 text-left text-08 text-yellow]
-@ul[circles]
+@ul[circles](false)
 
 - [GitPitch Slide Decks for Developers](https://gitpitch.com/pricing)
-- The [source for these slides is available here](https://github.com/hotpeppersec/hack_the_universe) on my GitHub account (@hotpeppersec)
+- The @gitlink[source for these slides is available here](hack_the_universe) on my GitHub account (@hotpeppersec)
+- All the folks who took time to review and provide feedback!
 
 @ulend
+@snapend
+
+@snap[midpoint]
+![Thank You](https://media.giphy.com/media/3oKIPfFs4hPHemcU6I/giphy.gif)
 @snapend
