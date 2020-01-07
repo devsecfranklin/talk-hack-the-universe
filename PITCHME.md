@@ -60,14 +60,39 @@ What?
 @snapend
 
 ---?image=assets/img/background.png
-@title[Specturm]
+@title[Spectrum]
 
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
-Electromagnetic Specturm
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Electromagnetic Spectrum
 @snapend
 
-@snap[midpoint]
-![IMAGE](assets/img/em_specturm.png)
+@snap[south]
+![IMAGE](assets/img/em_spectrum.png)
+@snapend
+
+---?image=assets/img/background.png
+@title[Ties]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Ties to Hacker Culture
+@snapend
+
+@snap[west span-100 text-left text-07 text-yellow]
+@ul[circles](false)
+
+- Depends on how you define “hacker”, but….
+  - People driven to learn about or enhance usability of things
+  - Coming up with novel and clever solutions to problems you didn’t know you had.
+- RA folks have their own tribe, as do we.
+  - Heavy involvement in Ham Radio
+    - Interest in antennae, wave propagation, chemistry, physics.
+    - Lots of opportunity to make your own antennae, receivers, etc.  
+  - Have their own raft of yearly conferences and meet-ups.
+  - People who work as scientists & engineers by day
+  - People who run the planetariums & observatories
+  - Maybe you and I?
+
+@ulend
 @snapend
 
 ---?image=assets/img/background.png
