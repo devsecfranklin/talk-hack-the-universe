@@ -129,9 +129,11 @@ Magnitude of Time and Space
 <p>
 The shape/size of the universe is a factor of it’s density…
 </p><p>
-“The simplest version of the inflationary theory, an extension of the Big Bang theory, predicts that the density of the universe is very close to the critical density, and that the geometry of the universe is flat, like a sheet of paper.” [source](https://map.gsfc.nasa.gov/universe/uni_shape.html)
+“The simplest version of the inflationary theory, an<br>extension of the Big Bang theory, predicts<br>that the density of the universe is very<br>close to the critical density, and that the geometry of the universe is flat, like a sheet of paper.” [source](https://map.gsfc.nasa.gov/universe/uni_shape.html)
 </p><p>
 The scientific consensus is that we live in a flat, infinite universe.
+</p><p>
+[source](https://map.gsfc.nasa.gov/universe/uni_shape.html)
 </p>
 @snapend
 
