@@ -18,7 +18,7 @@ Disclaimer
 @snapend
 
 @snap[south-west span-200 text-left text-08 text-yellow]
-@ul[circles]
+@ul[circles](false)
 
 - I am not a physicist, cosmologist, chemist or other field related to RA.
 - My work experience and degrees are all technology related.
