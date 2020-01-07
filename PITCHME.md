@@ -86,7 +86,7 @@ Ties to Hacker Culture
 - RA folks have their own tribe, as do we.
   - Heavy involvement in Ham Radio
     - Interest in antennae, wave propagation, chemistry, physics.
-    - Lots of opportunity to make your own antennae, receivers, etc.  
+    - Lots of opportunity to make your own antennae, receivers, etc.
   - Have their own raft of yearly conferences and meet-ups.
   - People who work as scientists & engineers by day
   - People who run the planetariums & observatories
@@ -116,6 +116,25 @@ Why is RA Important?
   - Detection of objects whose light is easily obscured by cosmic dust.
 
 @ulend
+@snapend
+
+---?image=assets/img/background.png
+@title[Magnitude]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Magnitude of Time and Space
+@snapend
+
+@snap[west span-100 text-left text-07 text-yellow]
+The shape/size of the universe is a factor of it’s density…
+
+“The simplest version of the inflationary theory, an extension of the Big Bang theory, predicts that the density of the universe is very close to the critical density, and that the geometry of the universe is flat, like a sheet of paper.” [source](https://map.gsfc.nasa.gov/universe/uni_shape.html)
+
+The scientific consensus is that we live in a flat, infinite universe.
+@snapend
+
+@snap[east]
+![IMAGE](assets/img/magnitude.png)
 @snapend
 
 ---?image=assets/img/background.png
