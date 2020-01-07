@@ -39,13 +39,16 @@ Disclaimer
 ---?image=assets/img/background.png
 @title[What]
 
-@snap[west span-200 text-left text-08 text-yellow]
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+What?
+@snapend
+
+@snap[west span-100 text-left text-07 text-yellow]
 @ul[circles](false)
 
-- Radio astronomy is the study of celestial objects that give off radio waves.
-- Study of astronomical phenomena that are often invisible or hidden in other portions of the electromagnetic spectrum.
-- Want to make the distinction between optical and radio astronomy.
-- Optical Astronomy has been around as long as people have been looking at the night sky.
+- Radio astronomy is the study of<br>celestial objects that give<br>off radio waves.
+  - Often invisible or hidden in<br>electromagnetic spectrum.
+- Optical Astronomy has been around<br>as long as people have been<br>looking at the night sky.
   - RA is much newer.
   - RA is very technology driven.
 
@@ -54,6 +57,17 @@ Disclaimer
 
 @snap[east]
 ![IMAGE](assets/img/but_it_was_fun_cover.jpeg)
+@snapend
+
+---?image=assets/img/background.png
+@title[Specturm]
+
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+Electromagnetic Specturm
+@snapend
+
+@snap[midpoint]
+![IMAGE](assets/img/em_specturm.png)
 @snapend
 
 ---?image=assets/img/background.png

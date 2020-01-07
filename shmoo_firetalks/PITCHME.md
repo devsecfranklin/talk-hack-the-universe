@@ -34,6 +34,10 @@ So What's This Talk About?
 ---?image=assets/img/background.png
 @title[What]
 
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+What?
+@snapend
+
 @snap[west span-100 text-left text-07 text-yellow]
 @ul[circles](false)
 
@@ -49,6 +53,18 @@ So What's This Talk About?
 @snap[east]
 ![IMAGE](assets/img/but_it_was_fun_cover.jpeg)
 @snapend
+
+---?image=assets/img/background.png
+@title[Specturm]
+
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+Electromagnetic Specturm
+@snapend
+
+@snap[midpoint]
+![IMAGE](assets/img/em_specturm.png)
+@snapend
+
 
 ---?image=assets/img/background.png
 @title[References]
