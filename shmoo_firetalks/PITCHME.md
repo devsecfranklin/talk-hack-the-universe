@@ -34,7 +34,7 @@ So What's This Talk About?
 ---?image=assets/img/background.png
 @title[What]
 
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+@snap[north-west span-100 text-20 text-bold text-left text-yellow]
 What?
 @snapend
 
@@ -55,16 +55,15 @@ What?
 @snapend
 
 ---?image=assets/img/background.png
-@title[Specturm]
+@title[Spectrum]
 
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
-Electromagnetic Specturm
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Electromagnetic Spectrum
 @snapend
 
-@snap[midpoint]
-![IMAGE](assets/img/em_specturm.png)
+@snap[south]
+![IMAGE](assets/img/em_spectrum.png)
 @snapend
-
 
 ---?image=assets/img/background.png
 @title[References]

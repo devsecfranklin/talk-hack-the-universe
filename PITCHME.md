@@ -39,7 +39,7 @@ Disclaimer
 ---?image=assets/img/background.png
 @title[What]
 
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+@snap[north-west span-100 text-20 text-bold text-left text-yellow]
 What?
 @snapend
 
