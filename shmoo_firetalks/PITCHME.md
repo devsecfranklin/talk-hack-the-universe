@@ -34,13 +34,12 @@ So What's This Talk About?
 ---?image=assets/img/background.png
 @title[What]
 
-@snap[west span-100 text-left text-08 text-yellow]
+@snap[west span-100 text-left text-07 text-yellow]
 @ul[circles](false)
 
-- Radio astronomy is the study of celestial objects that give off radio waves.
-- Study of astronomical phenomena that are often invisible or hidden in other portions of the electromagnetic spectrum.
-- Want to make the distinction between optical and radio astronomy.
-- Optical Astronomy has been around as long as people have been looking at the night sky.
+- Radio astronomy is the study of<br>celestial objects that give<br>off radio waves.
+  - Often invisible or hidden in<br>electromagnetic spectrum.
+- Optical Astronomy has been around<br>as long as people have been<br>looking at the night sky.
   - RA is much newer.
   - RA is very technology driven.
 
@@ -77,7 +76,7 @@ Thank You
 @ul[circles](false)
 
 - [GitPitch Slide Decks for Developers](https://gitpitch.com/pricing)
-- The [source for these slides is available here](https://github.com/hotpeppersec/hack_the_universe) on my GitHub account (@hotpeppersec)
+- The @gitlink[source for these slides is available here](hack_the_universe) on my GitHub account (@hotpeppersec)
 - All the folks who took time to review and provide feedback!
 
 @ulend
