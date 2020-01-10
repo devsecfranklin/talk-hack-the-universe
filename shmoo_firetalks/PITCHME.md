@@ -62,7 +62,7 @@ Electromagnetic Spectrum
 @snapend
 
 @snap[south]
-@box[bg-white text-yellow]![IMAGE](assets/img/em_spectrum.png)
+@img[bg-white](assets/img/em_spectrum.png)
 @snapend
 
 ---?image=assets/img/background.png
