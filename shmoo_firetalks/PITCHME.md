@@ -57,11 +57,19 @@ What?
 ---?image=assets/img/background.png
 @title[Spectrum]
 
-@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+@snap[north-west span-100 text-14 text-bold text-left text-yellow]
 Electromagnetic Spectrum
 @snapend
 
-@snap[south]
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- Radio Waves?
+
+@ulend
+@snapend
+
+@snap[south-east]
 @img[bg-white](assets/img/em_spectrum.png)
 @snapend
 
@@ -99,8 +107,21 @@ Imaging
 @ulend
 @snapend
 
+---?image=assets/img/background.png
+@title[Imaging Resources]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Imaging Resources
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
 - Intro to Open Source Radio Telescopes: [https://youtu.be/FfsfTBkbDMA](https://youtu.be/FfsfTBkbDMA)
 - PICTOR: [https://github.com/0xCoto/PICTOR](https://github.com/0xCoto/PICTOR)
+
+@ulend
+@snapend
 
 ---?image=assets/img/background.png
 @title[Indirect]
