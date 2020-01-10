@@ -20,7 +20,7 @@ So What's This Talk About?
 @ul[circles](false)
 
 - This talk is about Radio Astronomy
-  - What the heck is it?
+  - What the heck is RA?
   - A bit of relevant history
   - What's cool about it
   - How can we even?
@@ -140,6 +140,13 @@ Indirect Observation
 @snapend
 
 ---?image=assets/img/background.png
+@title[Indirect Resources]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Indirect Resources
+@snapend
+
+---?image=assets/img/background.png
 @title[References]
 
 @snap[north-west span-100 text-20 text-bold text-center text-yellow]
@@ -150,6 +157,8 @@ References
 @ul[circles](false)
 
 - [Basics of Radio Astronomy](https://www2.jpl.nasa.gov/radioastronomy/radioastronomy_all.pdf)
+- [White paper on Open Source Radio Telescopes](https://pubs.gnuradio.org/index.php/grcon/article/download/53/39/)
+- [Green Bank 40-Foot Operators Manual](https://greenbankobservatory.org/wp-content/uploads/2018/02/40-manual.pdf)
 
 @ulend
 @snapend

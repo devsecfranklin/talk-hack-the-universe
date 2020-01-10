@@ -2,7 +2,7 @@
 
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/hotpeppersec/hack_the_universe/master) [![Build Status](https://travis-ci.com/hotpeppersec/hack_the_universe.svg?branch=master)](https://travis-ci.com/hotpeppersec/hack_the_universe)
 
-Security Data Pipeline talk
+![Parkes](https://github.com/hotpeppersec/hack_the_universe/blob/master/assets/img/Parkes_radio_telescope.jpg)
 
 ## Slides
 
