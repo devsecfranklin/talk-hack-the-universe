@@ -42,7 +42,7 @@ What?
 @ul[circles](false)
 
 - Radio astronomy is the study of<br>celestial objects that give<br>off radio waves.
-  - Often invisible or hidden in<br>electromagnetic spectrum.
+  - Often "invisible" or hidden in<br>electromagnetic spectrum.
 - Optical Astronomy has been around<br>as long as people have been<br>looking at the night sky.
   - RA is much newer.
   - RA is very technology driven.
@@ -62,7 +62,60 @@ Electromagnetic Spectrum
 @snapend
 
 @snap[south]
-![IMAGE](assets/img/em_spectrum.png)
+@box[bg-white text-yellow]![IMAGE](assets/img/em_spectrum.png)
+@snapend
+
+---?image=assets/img/background.png
+@title[Why?]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+But... Why?
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- A chance to set (and meet!) some strecth goals
+  - You need to bring your "A game", engineering, astronomy, electronics, physics, amateur radio, soldering, antennas, cosmology, etc.
+- Still has that small community/greenfield feeling to it.
+- It's educational, and suitable for all ages.
+
+@ulend
+@snapend
+
+---?image=assets/img/background.png
+@title[Imaging]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Imaging
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- Happens at UHF, VHF, and EHF frequencies
+- Uses broadband receivers
+
+@ulend
+@snapend
+
+- Intro to Open Source Radio Telescopes: [https://youtu.be/FfsfTBkbDMA](https://youtu.be/FfsfTBkbDMA)
+- PICTOR: [https://github.com/0xCoto/PICTOR](https://github.com/0xCoto/PICTOR)
+
+---?image=assets/img/background.png
+@title[Indirect]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Indirect Observation
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- Happens at the low radio frequencies.
+- Narrow band receivers.
+
+@ulend
 @snapend
 
 ---?image=assets/img/background.png

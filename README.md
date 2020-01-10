@@ -8,4 +8,4 @@ Security Data Pipeline talk
 
 [View the slides by clicking here](https://gitpitch.com/hotpeppersec/hack_the_universe/)
 
-[View the firetalks version by clicking here](https://gitpitch.com/hotpeppersec/hack_the_universe/p=shmoo_firetalks)
+[View the firetalks version by clicking here](https://gitpitch.com/hotpeppersec/hack_the_universe/master?p=shmoo_firetalks)
