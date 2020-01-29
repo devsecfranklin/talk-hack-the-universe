@@ -70,7 +70,7 @@ Electromagnetic Spectrum
 @snapend
 
 @snap[south-east]
-@img[bg-white](assets/img/em_spectrum.png)
+@img[bg-white](assets/img/electromagnetic_spectrum.gif)
 @snapend
 
 ---?image=assets/img/background.png
