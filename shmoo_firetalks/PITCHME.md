@@ -70,7 +70,7 @@ Electromagnetic Spectrum
 @snapend
 
 @snap[south text-yellow]
-@img[bg-white](assets/img/electromagnetic_spectrum.gif)<br>*@size[0.05em](Atmospheric Transparency to different wavelengths of the Electromagnetic Spectrum)*
+@img[bg-white](assets/img/electromagnetic_spectrum.gif)<br>*@size[0.75em](Atmospheric Transparency to different wavelengths of the Electromagnetic Spectrum)*
 @snapend
 
 ---?image=assets/img/background.png
