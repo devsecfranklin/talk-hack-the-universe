@@ -73,6 +73,10 @@ Electromagnetic Spectrum
 @img[bg-white](assets/img/electromagnetic_spectrum.gif)
 @snapend
 
+@snap[east]
+@img[bg-white](assets/img/em_spectrum.jpg)
+@snapend
+
 Note:
 - **Atmospheric Transparency** to different wavelengths of the Electromagnetic Spectrum
 
