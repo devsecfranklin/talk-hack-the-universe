@@ -69,7 +69,7 @@ Electromagnetic Spectrum
 @ulend
 @snapend
 
-@snap[south text-6 text-yellow]
+@snap[south text-0.5 text-yellow]
 @img[bg-white](assets/img/electromagnetic_spectrum.gif)<br>*Atmospheric Transparency to different wavelengths of the Electromagnetic Spectrum*
 @snapend
 
@@ -181,9 +181,10 @@ References
 @ul[circles](false)
 
 - [Basics of Radio Astronomy](https://www2.jpl.nasa.gov/radioastronomy/radioastronomy_all.pdf)
+- [hardhack.org.au](https://www.hardhack.org.au/book/export/html/18)
 - [White paper on Open Source Radio Telescopes](https://pubs.gnuradio.org/index.php/grcon/article/download/53/39/)
 - [Green Bank 40-Foot Operators Manual](https://greenbankobservatory.org/wp-content/uploads/2018/02/40-manual.pdf)
-- [hardhack.org.au](https://www.hardhack.org.au/book/export/html/18)
+
 
 @ulend
 @snapend
