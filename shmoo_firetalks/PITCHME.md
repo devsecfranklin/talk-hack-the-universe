@@ -91,7 +91,7 @@ But... Why?
 @snap[west span-200 text-left text-08 text-yellow]
 @ul[circles](false)
 
-- A chance to set (and meet!) some strecth goals
+- A chance to set (and meet!) some stretch goals
   - You need to bring your "A game", engineering, astronomy, electronics, physics, amateur radio, soldering, antennas, cosmology, etc.
 - Still has that small community/greenfield feeling to it.
 - It's educational, and suitable for all ages.
