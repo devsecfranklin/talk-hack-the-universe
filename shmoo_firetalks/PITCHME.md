@@ -69,9 +69,17 @@ Electromagnetic Spectrum
 @ulend
 @snapend
 
-@snap[south-east]
-@img[bg-white](assets/img/em_spectrum.png)
+@snap[south]
+@img[bg-white](assets/img/electromagnetic_spectrum.gif)
 @snapend
+
+@snap[east]
+@img[bg-white](assets/img/em_spectrum.jpg)
+@snapend
+
+Note:
+
+- **Atmospheric Transparency** to different wavelengths of the Electromagnetic Spectrum
 
 ---?image=assets/img/background.png
 @title[Why?]
@@ -146,10 +154,35 @@ Indirect Observation
 Indirect Resources
 @snapend
 
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- [NASAs Radio Jove project for solar system observations](https://radiojove.gsfc.nasa.gov/about.htm)
+  - [Radio Jove Receivers](https://radiojove.gsfc.nasa.gov/telescope/rj_receivers.htm)
+
+@ulend
+@snapend
+
+---?image=assets/img/background.png
+@title[Other]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Other Chances for Fun
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- Use wave propagation/transmission line theory to [design antennas](https://www.cfa.harvard.edu/~npatel/hornAntennaAASposterPDF2.pdf).
+- Software development, [post processing data with tool sets like CASA](https://casa.nrao.edu/).
+
+@ulend
+@snapend
+
 ---?image=assets/img/background.png
 @title[References]
 
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+@snap[north-west span-100 text-20 text-bold text-left text-yellow]
 References
 @snapend
 
@@ -157,10 +190,15 @@ References
 @ul[circles](false)
 
 - [Basics of Radio Astronomy](https://www2.jpl.nasa.gov/radioastronomy/radioastronomy_all.pdf)
+- [hardhack.org.au](https://www.hardhack.org.au/book/export/html/18)
 - [White paper on Open Source Radio Telescopes](https://pubs.gnuradio.org/index.php/grcon/article/download/53/39/)
 - [Green Bank 40-Foot Operators Manual](https://greenbankobservatory.org/wp-content/uploads/2018/02/40-manual.pdf)
 
 @ulend
+@snapend
+
+@snap[north-east]
+@img[bg-white](assets/img/sciens.png)
 @snapend
 
 ---?image=assets/img/background.png

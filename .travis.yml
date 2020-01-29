@@ -6,7 +6,7 @@ services:
   
 before_install:
   - sudo apt-get -qq update
-  - gem install mdl
+  - gem install mdl --no-ri --no-rdoc
 
 script:
   - mdl -c .mdlrc .
