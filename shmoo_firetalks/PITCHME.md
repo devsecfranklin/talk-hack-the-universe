@@ -69,7 +69,7 @@ Electromagnetic Spectrum
 @ulend
 @snapend
 
-@snap[south-east]
+@snap[south]
 @img[bg-white](assets/img/electromagnetic_spectrum.gif)
 @snapend
 
@@ -146,6 +146,30 @@ Indirect Observation
 Indirect Resources
 @snapend
 
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- [NASAs Radio Jove project for solar system observations](https://radiojove.gsfc.nasa.gov/about.htm)
+  - [Radio Jove Receivers](https://radiojove.gsfc.nasa.gov/telescope/rj_receivers.htm)
+
+@ulend
+@snapend
+
+---?image=assets/img/background.png
+@title[Other]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Other Chances for Fun
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- Use wave propagation/transmission line theory to design antennas 
+
+@ulend
+@snapend
+
 ---?image=assets/img/background.png
 @title[References]
 
@@ -161,6 +185,10 @@ References
 - [Green Bank 40-Foot Operators Manual](https://greenbankobservatory.org/wp-content/uploads/2018/02/40-manual.pdf)
 
 @ulend
+@snapend
+
+@snap[north-east]
+@img[bg-white](assets/img/sciens.png)
 @snapend
 
 ---?image=assets/img/background.png
