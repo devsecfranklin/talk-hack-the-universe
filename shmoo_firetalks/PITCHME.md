@@ -69,9 +69,12 @@ Electromagnetic Spectrum
 @ulend
 @snapend
 
-@snap[south 0.5em text-yellow]
-@img[bg-white](assets/img/electromagnetic_spectrum.gif)<br>*Atmospheric Transparency to different wavelengths of the Electromagnetic Spectrum*
+@snap[south]
+@img[bg-white](assets/img/electromagnetic_spectrum.gif)
 @snapend
+
+Note:
+- **Atmospheric Transparency** to different wavelengths of the Electromagnetic Spectrum
 
 ---?image=assets/img/background.png
 @title[Why?]
