@@ -165,7 +165,7 @@ Other Chances for Fun
 @snap[west span-200 text-left text-08 text-yellow]
 @ul[circles](false)
 
-- Use wave propagation/transmission line theory to design antennas 
+- Use wave propagation/transmission line theory to design antennas.
 
 @ulend
 @snapend

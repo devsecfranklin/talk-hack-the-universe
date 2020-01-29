@@ -1,0 +1,9 @@
+version: '3'
+services:
+  hack_the_universe:
+        hostname: hack_the_universe
+        volumes:
+          - .:/tmp/workspace
+        build:
+          context: ..
+          dockerfile: docker/Dockerfile

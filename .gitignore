@@ -1,1 +1,6 @@
 .vscode
+reports/*
+
+.tox/
+__pycache__
+MANIFEST
