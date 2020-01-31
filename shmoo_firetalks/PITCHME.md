@@ -59,6 +59,7 @@ What?
 - Optical Astronomy has been around<br>as long as people have been<br>looking at the night sky.
   - RA is much newer.
   - RA is very technology driven.
+- *[But It Was Fun](https://public.nrao.edu/news/history-of-radio-astronomy-book/)*
 
 @ulend
 @snapend
@@ -93,7 +94,7 @@ Electromagnetic Spectrum
 
 Note:
 
-- The image on the right shows 
+- The image on the right shows typical uses of spectrum.
 - The bottom image shows the ability of a signal to penetrate the Earth's atmosphere. **transparency**
 - **Atmospheric Transparency** to different wavelengths of the Electromagnetic Spectrum
 
