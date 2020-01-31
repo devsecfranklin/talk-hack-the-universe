@@ -9,6 +9,14 @@ Hack the Universe
 Amateur Radio Astronomy
 @snapend
 
+Note:
+
+- You can **follow along** with this talk on my github (hotpeppersec).
+- There are links throughout the presentation that you can click on for greater detail.
+- I realize this presentation is currently a bit wonky when viewed on a mobile device.
+  - I'm working on it, don't @ me.
+- My speaking style is fairly informal and if you stop me with a question I will do my best to answer it.
+
 ---?image=assets/img/background.png
 @title[Intro]
 
@@ -21,7 +29,6 @@ So What's This Talk About?
 
 - This talk is about Radio Astronomy
   - What the heck is RA?
-  - A bit of relevant history
   - What's cool about it
   - How can we even?
 
@@ -30,6 +37,12 @@ So What's This Talk About?
 
 @snap[south-east]
 ![HACK](https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif)
+
+Note:
+
+- We will take a very brief look at what Radio Astronomy is all about.
+- My background is in computers, networks, sec, software. I'm not a cosmologist or radio astronomer, simply a hobbyist.
+- The goal of this talk is to give some background and a starting point for you to hopefully dig deeper, fall down some rabbit holes.
 
 ---?image=assets/img/background.png
 @title[What]
@@ -64,7 +77,8 @@ Electromagnetic Spectrum
 @snap[west span-200 text-left text-08 text-yellow]
 @ul[circles](false)
 
-- Radio Waves?
+- Radio Waves...
+  - Your bread and butter of RA.
 
 @ulend
 @snapend
@@ -79,6 +93,8 @@ Electromagnetic Spectrum
 
 Note:
 
+- The image on the right shows 
+- The bottom image shows the ability of a signal to penetrate the Earth's atmosphere. **transparency**
 - **Atmospheric Transparency** to different wavelengths of the Electromagnetic Spectrum
 
 ---?image=assets/img/background.png
@@ -91,13 +107,19 @@ But... Why?
 @snap[west span-200 text-left text-08 text-yellow]
 @ul[circles](false)
 
+- Because it's fascinating!
 - A chance to set (and meet!) some stretch goals
-  - You need to bring your "A game", engineering, astronomy, electronics, physics, amateur radio, soldering, antennas, cosmology, etc.
+  - You need to bring your "A game"!
 - Still has that small community/greenfield feeling to it.
 - It's educational, and suitable for all ages.
 
 @ulend
 @snapend
+
+Note:
+
+- RA incorporates engineering, astronomy, electronics, physics, amateur radio, soldering, antennas, cosmology, etc.
+- Mention SARA club and get togethers.
 
 ---?image=assets/img/background.png
 @title[Imaging]
