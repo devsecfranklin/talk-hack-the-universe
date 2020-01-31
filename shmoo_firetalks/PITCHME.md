@@ -68,6 +68,11 @@ What?
 ![IMAGE](assets/img/but_it_was_fun_cover.jpeg)
 @snapend
 
+Note:
+
+- I've added a link to the book whose cover you can see on the right.
+  - Some history about the early years of RA at NRAO in Green Bank, WV
+
 ---?image=assets/img/background.png
 @title[Spectrum]
 
@@ -182,9 +187,15 @@ Indirect Resources
 
 - [NASAs Radio Jove project for solar system observations](https://radiojove.gsfc.nasa.gov/about.htm)
   - [Radio Jove Receivers](https://radiojove.gsfc.nasa.gov/telescope/rj_receivers.htm)
+- Check out [Pisgah Astronomical Research Institute](https://www.pari.edu/), many programs and volunteer opportunities.
 
 @ulend
 @snapend
+
+Note:
+
+- You will find a ton of stuff poking around the Pisgah site.
+  - Loose coupling between SARA and PARI.
 
 ---?image=assets/img/background.png
 @title[Other]
@@ -198,9 +209,14 @@ Other Chances for Fun
 
 - Use wave propagation/transmission line theory to [design antennas](https://www.cfa.harvard.edu/~npatel/hornAntennaAASposterPDF2.pdf).
 - Software development, [post processing data with tool sets like CASA](https://casa.nrao.edu/).
+- Interferometry.
 
 @ulend
 @snapend
+
+Note:
+
+- We need your unique viewpoints and ideas!
 
 ---?image=assets/img/background.png
 @title[References]
