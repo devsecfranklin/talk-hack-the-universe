@@ -139,9 +139,14 @@ Imaging
 
 - Happens at UHF, VHF, and EHF frequencies
 - Uses broadband receivers
+- Tons of examples [on the web, try clicking here](https://duckduckgo.com/?q=radio+astronomy+false+color+image&atb=v198-1&iax=images&ia=images)
 
 @ulend
 @snapend
+
+Note:
+
+- By way of example, in the amateur world we use upcycled satellite dishes for antennae.
 
 ---?image=assets/img/background.png
 @title[Imaging Resources]
@@ -155,9 +160,14 @@ Imaging Resources
 
 - Intro to Open Source Radio Telescopes: [https://youtu.be/FfsfTBkbDMA](https://youtu.be/FfsfTBkbDMA)
 - PICTOR: [https://github.com/0xCoto/PICTOR](https://github.com/0xCoto/PICTOR)
+- A cursory web search yields plenty more.
 
 @ulend
 @snapend
+
+Note:
+
+- PICTOR is an open-source radio telescope that allows anyone to observe the radio sky
 
 ---?image=assets/img/background.png
 @title[Indirect]
@@ -194,6 +204,7 @@ Indirect Resources
 
 Note:
 
+- For Radio Jove you can listen in on other folks that already have a working setup.
 - You will find a ton of stuff poking around the Pisgah site.
   - Loose coupling between SARA and PARI.
 
