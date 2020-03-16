@@ -42,6 +42,6 @@ jobs:
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     # Runs a set of commands using the runners shell
-    - name: Test all the things
-      run: |
-        cd ${GITHUB_WORKSPACE} && make test
+    #- name: Test all the things
+    #  run: |
+    #    cd ${GITHUB_WORKSPACE} && make test
