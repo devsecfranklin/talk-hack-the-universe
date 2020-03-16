@@ -12,7 +12,7 @@ I will quickly explain some background on the relatively young scientific field 
 Astronomy and how it overlaps with things that hold the attention of hackers and tech nerds. 
 I will spend more time in exploration of the intersection of things like Ham Radio, RF 
 Engineering, and Astronomy where we find this fascinating way of observing things about our 
-Universe through the lens of RF signals, chemistry, spectroscopy, inteferometry and more! 
+Universe through the lens of RF signals, chemistry, spectroscopy, interferometry and more! 
 
 ## Bio
 
