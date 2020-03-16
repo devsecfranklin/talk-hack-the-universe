@@ -25,5 +25,5 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Test all the things
       run: |
-        pip3 install -rpython/requirements-test.txt
-        make test
+        pip3 install -r/home/runner/work/hack_the_universe/hack_the_universe/python/requirements-test.txt
+        cd /home/runner/work/hack_the_universe/hack_the_universe && make test
