@@ -262,7 +262,7 @@ Thank You
 @ul[circles](false)
 
 - [GitPitch Slide Decks for Developers](https://gitpitch.com/pricing)
-- The @gitlink[source for these slides is available here](hack_the_universe/shmoo_firetalk) on my GitHub account (@hotpeppersec)
+- The @gitlink[source for these slides is available here](hack_the_universe/short_version) on my GitHub account (@hotpeppersec)
 - All the folks who took time to review and provide feedback!
 
 @ulend
