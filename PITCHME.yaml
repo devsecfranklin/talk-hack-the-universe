@@ -4,15 +4,21 @@ layout : top-left
 #logo : assets/img/logo.png
 #logo-position : top-right
 
-# Look-and-Feel
-#highlight : ir-black
-highlight: dracula
-theme : night
-theme-override : assets/css/PITCHME.css
-theme-headline : [ "Lato", "#1C1C1C", "none", "yellow" ]
-theme-text : [ "Lato", "#1C1C1C", "none", "yellow" ]
-code-line-numbers : true
-theme-code : [ "Source Code Pro" ]
-
 # Behavior
 transition : none
+theme-override : assets/css/PITCHME.css
+code-line-numbers : true
+
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
+theme            : template
+theme-background : [ "#000000" ]
+theme-headline   : [ "Lato", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
+theme-byline     : [ "Raleway", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
+theme-text       : [ "Lato", "#FFFFFF", "none", "#A0C865", "100", "100", "15" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro", "100", "120" ]
+highlight        : dracula
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+layout           : top-left
+# PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
