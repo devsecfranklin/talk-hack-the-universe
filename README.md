@@ -2,8 +2,6 @@
 
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/hotpeppersec/hack_the_universe/master)
 [![Build Status](https://travis-ci.com/hotpeppersec/hack_the_universe.svg?branch=master)](https://travis-ci.com/hotpeppersec/hack_the_universe)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/hotpeppersec/hack_the_universe.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hotpeppersec/hack_the_universe/alerts/)
-![GitHub CI](https://github.com/hotpeppersec/hack_the_universe/workflows/CI/badge.svg?branch=master)
 
 ![Parkes](https://github.com/hotpeppersec/hack_the_universe/blob/master/assets/img/Parkes_radio_telescope.jpg)<br>*Parkes Radio Telescope*
 
