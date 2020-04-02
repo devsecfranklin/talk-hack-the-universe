@@ -248,16 +248,15 @@ Note:
 Jansky Monument
 @snapend
 
-@snap[south-west span-35 text-08 text-yellow]
-Located in Holmdel, NJ
+@snap[west span-50 text-08 text-yellow]
+
+- Located in Holmdel, NJ
+- Oriented as Jansky's antenna was at 7:10 p.m. on September 16, 1932, at a moment of maximum signal. 
+
 @snapend
 
-@snap[south-east span-35 text-07 text-yellow]
-Oriented as Jansky's antenna was at 7:10 p.m. on September 16, 1932, at a moment of maximum signal. 
-@snapend
-
-@snap[midpoint]
-![Janksy](assets/img/jansky_monument.jpeg)
+@snap[east]
+![Janksy span-75](assets/img/jansky_monument.jpeg)
 @snapend
 
 Note:
@@ -271,7 +270,7 @@ Note:
 Grote Reber
 @snapend
 
-@snap[west span-70 text-left text-07 text-yellow]
+@snap[east span-70 text-left text-07 text-yellow]
 @ul[circles](false)
 
 - Grote Reber
@@ -281,20 +280,87 @@ Grote Reber
 
 @snapend
 
+@snap[west]
+![Reber](assets/img/grote_reber.jpeg)
+@snapend
+
 ---?image=assets/img/background.png
 @title[The 21cm hydrogen Line]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+The 21cm hydrogen Line
+@snapend
+
+@snap[south-west span-35 text-07 text-yellow]
+The spin of neutral hydrogen gives us an emission at 21cm wavelength
+@snapend
+
+@snap[south span-35 text-06 text-yellow]
+This emission is more prevalent in the Universe and penetrates farther than visible light.
+@snapend
+
+@snap[south-east span-35 text-06 text-yellow]
+Combined with WWII radar tech &  the advent of the transistor around 1945, RA research took off.
+@snapend
+
+@snap[midpoint]
+![21cm span-95](assets/img/M81groupHI.jpg)
+@snapend
+
+Note:
+
+- update this
+- [from here](https://www.cv.nrao.edu/course/astr534/HILine.html)
 
 ---?image=assets/img/background.png
 @title[Interferometry]
 
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Interferometry Technique
+@snapend
+
+@snap[south-west span-35 text-07 text-yellow]
+Simply put, physically linking or correlating data from two or more radio telescopes.
+@snapend
+
+@snap[south span-35 text-06 text-yellow]
+Consider these dishes at the VLA in Socorro, NM.
+@snapend
+
+@snap[south-east span-35 text-06 text-yellow]
+Spreading them out allows for a tighter focus on the desired observable area.
+@snapend
+
 ---?image=assets/img/background.png
 @title[Computing]
 
----?image=assets/img/background.png
-@title[Green Bank]
+@snap[north-west span-120 text-11 text-bold text-yellow]
+Interesting Computing Challenges Arise Quickly
+@snapend
+
+@snap[west span-70 text-left text-07 text-yellow]
+@ul[circles](false)
+
+- Sheer bulk of data coming in is challenging, esp w/ interferometry
+- Post processing in a timely manner
+- Correlation of Interferometric data can be challenging. 
+- Need for extreme clock precision and sync 
+- A great use case for computational clusters. 
+- Storage and networking issues related to massive data sets.
+
+@snapend
 
 ---?image=assets/img/background.png
 @title[Trip to GB]
+
+@snap[west span-100 text-center text-yellow]
+SARA Conference at Green Bank, WV
+@snapend
+
+---?image=assets/img/background.png
+@title[Main Bldg]
+
+So what does one do at a Radio Astronomy Conference? We spent our days in this building, known as the Karl Janksy Laboratory, listening to lectures from professional astronomers and physicists, and enjoying presentations from the members of the club.
 
 ---?image=assets/img/background.png
 @title[Ready]
