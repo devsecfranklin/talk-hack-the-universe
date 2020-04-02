@@ -121,6 +121,10 @@ What?
 ![IMAGE](assets/img/but_it_was_fun_cover.jpeg)
 @snapend
 
+Note:
+
+- Anybody can do a science. No barrier to entry. You just go for it!
+
 ---?image=assets/img/black_and_blue.jpeg
 @title[Spectrum]
 
@@ -139,7 +143,7 @@ Electromagnetic Spectrum
 Ties to Hacker Culture
 @snapend
 
-@snap[west span-100 text-left text-07 text-yellow]
+@snap[west span-60 text-06 text-yellow]
 @ul[circles](false)
 
 - Depends on how you define “hacker”, but….
@@ -149,12 +153,15 @@ Ties to Hacker Culture
   - Heavy involvement in Ham Radio
     - Interest in antennae, wave propagation, chemistry, physics.
     - Lots of opportunity to make your own antennae, receivers, etc.
-  - Have their own raft of yearly conferences and meet-ups.
   - People who work as scientists & engineers by day
   - People who run the planetariums & observatories
   - Maybe you and I?
 
 @ulend
+@snapend
+
+@snap[east]
+@img[span-65 bg-white](assets/img/Satellite-Hacker-main.jpeg)
 @snapend
 
 ---?image=assets/img/background.png
@@ -164,7 +171,7 @@ Ties to Hacker Culture
 Why is RA Important?
 @snapend
 
-@snap[west span-100 text-left text-07 text-yellow]
+@snap[west span-65 text-07 text-yellow]
 @ul[circles](false)
 
 - More than just a quest to see what’s out there.
@@ -172,12 +179,16 @@ Why is RA Important?
 - The BIG questions
   - Where did we come from?
   - What’s in store for us as a species?
-- Are there ways we can amass knowledge to enable technologies that will enhance and improve our lives?
 - Complements optical astronomy.
   - Being able to “see” invisible gasses.
   - Detection of objects whose light is easily obscured by cosmic dust.
+- Are there ways we can amass knowledge to enable technologies that will enhance and improve our lives?
 
 @ulend
+@snapend
+
+@snap[east]
+@img[bg-white](assets/img/sciens.png)
 @snapend
 
 ---?image=assets/img/background.png
@@ -202,7 +213,7 @@ Magnitude of Time and Space
 
 Note:
 
-- With RA you can bake you noodle with stuff like this.
+- With RA you can bake your noodle with stuff like this.
 
 ---?image=assets/img/background.png
 @title[Karl Guthe Jansky]
@@ -218,11 +229,11 @@ Karl Guthe Jansky
 @snap[west span-70 text-left text-07 text-yellow]
 @ul[circles](false)
 
-- Karl Guthe Jansky 
+- Karl Guthe Jansky
   - (October 22, 1905 – February 14, 1950)
 - Considered a “founding figure” in RA
-- First person to record radio signals from beyond Earth. 
-- Identified the source of “hiss” during long distance telephone calls as [coming from the center of our galaxy](https://public.nrao.edu/gallery/karl-jansky-with-his-milky-way-map/)  
+- First person to record radio signals from beyond Earth.
+- Identified the source of “hiss” during long distance telephone calls as [coming from the center of our galaxy](https://public.nrao.edu/gallery/karl-jansky-with-his-milky-way-map/)
 
 @snapend
 
@@ -233,8 +244,42 @@ Note:
 ---?image=assets/img/background.png
 @title[Jansky Monument]
 
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Jansky Monument
+@snapend
+
+@snap[south-west span-35 text-08 text-yellow]
+Located in Holmdel, NJ
+@snapend
+
+@snap[south-east span-35 text-07 text-yellow]
+Oriented as Jansky's antenna was at 7:10 p.m. on September 16, 1932, at a moment of maximum signal. 
+@snapend
+
+@snap[midpoint]
+![Janksy](assets/img/jansky_monument.jpeg)
+@snapend
+
+Note:
+
+- Neat monument.
+
 ---?image=assets/img/background.png
 @title[Grote Reber]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Grote Reber
+@snapend
+
+@snap[west span-70 text-left text-07 text-yellow]
+@ul[circles](false)
+
+- Grote Reber
+  - (December 22, 1911 – December 20, 2002)
+- He was an amateur and built his own equipment in his backyard in Wheaton, IL.  
+- Conducted the first sky survey at radio frequencies.
+
+@snapend
 
 ---?image=assets/img/background.png
 @title[The 21cm hydrogen Line]
@@ -269,7 +314,7 @@ RA Basics
 @ul[circles](false)
 
 - [This is a great place to start!](http://www2.jpl.nasa.gov/radioastronomy/)
-- JPL made a great primer for RA in 1998. 
+- JPL made a great primer for RA in 1998.
   - The PDF is still here.
 
 @snapend
@@ -294,19 +339,92 @@ Radio Jove
 @snapend
 
 ---?image=assets/img/background.png
+@title[Imaging]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Imaging
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- Happens at UHF, VHF, and EHF frequencies
+- Uses broadband receivers
+- Tons of examples [on the web, try clicking here](https://duckduckgo.com/?q=radio+astronomy+false+color+image&atb=v198-1&iax=images&ia=images)
+
+@ulend
+@snapend
+
+Note:
+
+- By way of example, in the amateur world we use upcycled satellite dishes for antennae.
+
+---?image=assets/img/background.png
 @title[Telescopes]
 
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
-Radio Telescopes
+@snap[north span-100 text-16 text-bold text-center text-yellow]
+Amateur Radio Telescopes
 @snapend
 
 @snap[west span-70 text-left text-07 text-yellow]
 @ul[circles](false)
 
+
 - [teaching telescope](https://public.nrao.edu/gallery/itty-bitty-teaching-telescope/) with discarded parts
 - [budget telescope](http://www.sbrac.org/files/budget_radio_telescope.pdf) by Marcus Leech
+- Intro to Open Source Radio Telescopes: [https://youtu.be/FfsfTBkbDMA](https://youtu.be/FfsfTBkbDMA)
+- PICTOR: [https://github.com/0xCoto/PICTOR](https://github.com/0xCoto/PICTOR)
+- A cursory web search yields plenty more.
 
 @snapend
+
+Note:
+
+- This list is stuff so you can do your own imaging.
+- PICTOR is an open-source radio telescope that allows anyone to observe the radio sky
+
+---?image=assets/img/background.png
+@title[Indirect]
+
+@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+Indirect Observation
+@snapend
+
+@snap[west span-200 text-left text-08 text-yellow]
+@ul[circles](false)
+
+- Happens at the low radio frequencies.
+- Narrow band receivers.
+
+@ulend
+@snapend
+
+---?image=assets/img/background.png
+@title[Books]
+
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+Books
+@snapend
+
+@snap[west span-60 text-06 text-yellow]
+@ul[circles](false)
+
+- ["Astronomer By Chance"](https://www.amazon.com/Astronomer-Chance-Sloan-Foundation-Science/dp/0465005128) by Bernard Lovell
+- ["Parkes - Thirty Years of Radio Astronomy"](https://www.amazon.com/Parkes-Thirty-Years-Radio-Astronomy/dp/0643055479) by D.E. Goddard
+- ["The Invisible Universe: The Story of Radio Astronomy"](https://www.amazon.com/Invisible-Universe-Story-Astronomy-Astronomers-ebook/dp/B00SO4LQOI/) by Gerrit Verschuur
+- ["But It Was Fun"](https://public.nrao.edu/news/history-of-radio-astronomy-book/)
+
+@snapend
+
+@snap[east]
+![span-50](assets/img/Roosevelt_university_murray_green_library.jpeg)
+@snapend
+
+Note: 
+
+- Photo is Murray Greene library, Roosevelt University, Chicago.
+- Careful when selecting a book about RA.
+  - Avoid the math heavy textbooks unless you're into that sort of thing.
 
 ---?image=assets/img/background.png
 @title[Thank You]
