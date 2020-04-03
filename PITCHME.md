@@ -251,7 +251,7 @@ Jansky Monument
 @snap[west span-50 text-08 text-yellow]
 
 - Located in Holmdel, NJ
-- Oriented as Jansky's antenna was at 7:10 p.m. on September 16, 1932, at a moment of maximum signal. 
+- Oriented as Jansky's antenna was at 7:10 p.m. on September 16, 1932, at a moment of maximum signal.
 
 @snapend
 
@@ -275,7 +275,7 @@ Grote Reber
 
 - Grote Reber
   - (December 22, 1911 – December 20, 2002)
-- He was an amateur and built his own equipment in his backyard in Wheaton, IL.  
+- He was an amateur and built his own equipment in his backyard in Wheaton, IL.
 - Conducted the first sky survey at radio frequencies.
 
 @snapend
@@ -343,9 +343,9 @@ Interesting Computing Challenges Arise Quickly
 
 - Sheer bulk of data coming in is challenging, esp w/ interferometry
 - Post processing in a timely manner
-- Correlation of Interferometric data can be challenging. 
-- Need for extreme clock precision and sync 
-- A great use case for computational clusters. 
+- Correlation of Interferometric data can be challenging.
+- Need for extreme clock precision and sync.
+- A great use case for computational clusters.
 - Storage and networking issues related to massive data sets.
 
 @snapend
@@ -435,7 +435,6 @@ Amateur Radio Telescopes
 @snap[west span-70 text-left text-07 text-yellow]
 @ul[circles](false)
 
-
 - [teaching telescope](https://public.nrao.edu/gallery/itty-bitty-teaching-telescope/) with discarded parts
 - [budget telescope](http://www.sbrac.org/files/budget_radio_telescope.pdf) by Marcus Leech
 - Intro to Open Source Radio Telescopes: [https://youtu.be/FfsfTBkbDMA](https://youtu.be/FfsfTBkbDMA)
@@ -486,7 +485,7 @@ Books
 ![span-50](assets/img/Roosevelt_university_murray_green_library.jpeg)
 @snapend
 
-Note: 
+Note:
 
 - Photo is Murray Greene library, Roosevelt University, Chicago.
 - Careful when selecting a book about RA.
