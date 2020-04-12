@@ -153,8 +153,8 @@ Ties to Hacker Culture
   - Heavy involvement in Ham Radio
     - Interest in antennae, wave propagation, chemistry, physics.
     - Lots of opportunity to make your own antennae, receivers, etc.
-  - People who work as scientists & engineers by day
   - People who run the planetariums & observatories
+  - People who work as scientists & engineers by day
   - Maybe you and I?
 
 @ulend
@@ -163,6 +163,11 @@ Ties to Hacker Culture
 @snap[east]
 @img[span-65 bg-white](assets/img/Satellite-Hacker-main.jpeg)
 @snapend
+
+Note:
+
+- Their websites, projects, and software could benefit.
+- Their networks need your protection.
 
 ---?image=assets/img/background.png
 @title[Why]
@@ -273,10 +278,12 @@ Grote Reber
 @snap[east span-70 text-left text-07 text-yellow]
 @ul[circles](false)
 
-- Grote Reber
-  - (December 22, 1911 – December 20, 2002)
-- He was an amateur and built his own equipment in his backyard in Wheaton, IL.
-- Conducted the first sky survey at radio frequencies.
+ - Grote Reber born in Wheaton, Illinois, in 1911.
+ - Got his EE in 1933.
+ - Reber was already an amateur radio operator with an interest in Karl Jansky’s pioneering use of a radio antenna to detect radiation coming from the center of the Milky Way galaxy.
+ - Reber couldn’t get a job with Jansky at Bell Labs, which was not hiring when Reber graduated at the height of the Depression.
+ - Instead, he took a job with a radio manufacturer and built his own radio telescope in his backyard in Wheaton.
+ - [source](https://www.kb6nu.com/ham-radio-news-radio-astronomy-pioneer-special-event-celebrates-1917-victory-repeater-woes/)
 
 @snapend
 
@@ -319,6 +326,14 @@ Note:
 Interferometry Technique
 @snapend
 
+@snap[west]
+![vlbi](assets/img/inter_vlbi.jpg)
+@snapend
+
+@snap[east]
+![inter1 span-45](assets/img/interferometer1.jpg)
+@snapend
+
 @snap[south-west span-35 text-07 text-yellow]
 Simply put, physically linking or correlating data from two or more radio telescopes.
 @snapend
@@ -330,6 +345,16 @@ Consider these dishes at the VLA in Socorro, NM.
 @snap[south-east span-35 text-06 text-yellow]
 Spreading them out allows for a tighter focus on the desired observable area.
 @snapend
+
+Note:
+
+- produce images with the angular resolution of a huge telescope with an aperture equal to the separation between the component telescopes
+  - make one big one out of some smaller ones.
+  - The VLA is a good example.
+- [http://www.astro.puc.cl/~rparra/tools/ASTRONOMY/node2.html](http://www.astro.puc.cl/~rparra/tools/ASTRONOMY/node2.html)
+- Time stamping data with highest precision possible is extremely important.
+- The picture on the left shows VLBI, but illustrates cτ = [speed of light times tau](https://en.wikipedia.org/wiki/Tau_effect)
+- The picture on the right shows the geometric relationship between two RTs: a distance D, Dsin(θ), and Dcos(θ). 
 
 ---?image=assets/img/background.png
 @title[Computing]
@@ -364,6 +389,7 @@ SARA Conference at NRAO Green Bank, WV
 Note:
 
 - [https://public.nrao.edu/gallery/green-bank-observatory/](https://public.nrao.edu/gallery/green-bank-observatory/)
+- There are [european conferences](https://astropeiler.de/european-conference-amateur-radio-astronomy-2018) as well
 
 ---?image=assets/img/background.png
 @title[Main Bldg]
@@ -615,13 +641,18 @@ Ready to Hack the Universe?
 RA Basics
 @snapend
 
-@snap[west span-70 text-left text-07 text-yellow]
+@snap[west span-70 text-07 text-yellow]
 @ul[circles](false)
-
-- [This is a great place to start!](http://www2.jpl.nasa.gov/radioastronomy/)
 - JPL made a great primer for RA in 1998.
-  - The PDF is still here.
+  - [Good place to start!](http://www2.jpl.nasa.gov/radioastronomy/)
+- NRAO has a [getting started](https://www.nrao.edu/epo/amateur/) site.
+- U.S. based [SARA conference](http://www.radio-astronomy.org/node/327) Aug 2-5, 2020
+  - CFP is open!
+  - SARA has a [getting started](http://www.radio-astronomy.org/getting-started) page.
+@snapend
 
+@snap[east]
+![amatuer](https://www.nrao.edu/epo/amateur/finished.jpg
 @snapend
 
 Note:
@@ -630,27 +661,17 @@ Note:
 - meant to get educators up to speed quickly
 
 ---?image=assets/img/background.png
-@title[PARI]
-
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
-PARI
-@snapend
-
----?image=assets/img/background.png
-@title[Radio Jove]
-
-@snap[north-west span-100 text-20 text-bold text-center text-yellow]
-Radio Jove
-@snapend
-
----?image=assets/img/background.png
 @title[Imaging]
 
-@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+@snap[north span-100 text-16 text-bold text-center text-yellow]
 Imaging
 @snapend
 
-@snap[west span-200 text-left text-08 text-yellow]
+@snap[midpoint]
+![Jupiter span-100](https://www.astronomynotes.com/telescop/jupiter-visradio.jpg)
+@snapend
+
+@snap[south text-07 text-yellow]
 @ul[circles](false)
 
 - Happens at UHF, VHF, and EHF frequencies
@@ -663,6 +684,7 @@ Imaging
 Note:
 
 - By way of example, in the amateur world we use upcycled satellite dishes for antennae.
+- [some more links](https://portia.astrophysik.uni-kiel.de/~koeppen/10GHz/simple.html)
 
 ---?image=assets/img/background.png
 @title[Telescopes]
@@ -671,15 +693,17 @@ Note:
 Amateur Radio Telescopes
 @snapend
 
-@snap[west span-70 text-left text-07 text-yellow]
+@snap[west span-70 text-06 text-yellow]
 @ul[circles](false)
-
 - [teaching telescope](https://public.nrao.edu/gallery/itty-bitty-teaching-telescope/) with discarded parts
 - [budget telescope](http://www.sbrac.org/files/budget_radio_telescope.pdf) by Marcus Leech
 - Intro to Open Source Radio Telescopes: [https://youtu.be/FfsfTBkbDMA](https://youtu.be/FfsfTBkbDMA)
 - PICTOR: [https://github.com/0xCoto/PICTOR](https://github.com/0xCoto/PICTOR)
 - A cursory web search yields plenty more.
+@snapend
 
+@snap[east]
+![Amateur span-60](https://www.kb6nu.com/wp-content/uploads/2017/01/grote-reber-768x388.png)
 @snapend
 
 Note:
@@ -688,20 +712,75 @@ Note:
 - PICTOR is an open-source radio telescope that allows anyone to observe the radio sky
 
 ---?image=assets/img/background.png
+@title[PARI]
+
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+PARI
+@snapend
+
+@snap[south span-70 text-left text-07 text-yellow]
+@ul[circles](false)
+
+- Pisgah Astronomical Research Institute in North Carolina
+  - Former NASA [Research Facility](https://www.pari.edu/timeline/)
+- You can volunteer your time, energy, and dollars to support their efforts.
+
+@snapend
+
+@snap[west]
+![pari1 span-70](assets/img/pari1.jpg)
+@snapend
+
+@snap[midpoint]
+![pari2 span-70](assets/img/pari2.jpg)
+@snapend
+
+@snap[east]
+![pari3 span-70](assets/img/pari3.jpg)
+@snapend
+
+---?image=assets/img/background.png
 @title[Indirect]
 
-@snap[north-west span-100 text-16 text-bold text-center text-yellow]
+@snap[north span-100 text-16 text-bold text-center text-yellow]
 Indirect Observation
 @snapend
 
-@snap[west span-200 text-left text-08 text-yellow]
+@snap[south text-07 text-yellow]
 @ul[circles](false)
 
 - Happens at the low radio frequencies.
 - Narrow band receivers.
+- Stanford [SID/Super SID](http://solar-center.stanford.edu/SID/sidmonitor/)
+  - ionospheric disturbances
 
 @ulend
 @snapend
+
+@snap[midpoint]
+![SID span-75](http://solar-center.stanford.edu/SID/images/SID_FRONT2.jpg
+@snapend
+
+---?image=assets/img/background.png
+@title[Radio Jove]
+
+@snap[north-west span-100 text-20 text-bold text-center text-yellow]
+Radio Jove
+@snapend
+
+@snap[south span-70 text-left text-07 text-yellow]
+@ul[circles](false)
+- Decametric Telescope for Jovian observations
+@snapend
+
+@snap[midpoint]
+![RadioJove span-120](assets/img/RJ1.2_antenna.jpg)
+@snapend
+
+Note:
+
+- [Build your own receiver](https://radiojove.gsfc.nasa.gov/telescope/rj_receivers.htm)
+- Exciting software packages to assist observations & [share your data with others](https://radiojove.gsfc.nasa.gov/software/)
 
 ---?image=assets/img/background.png
 @title[Books]
