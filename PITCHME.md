@@ -278,13 +278,14 @@ Grote Reber
 @snap[east span-70 text-left text-07 text-yellow]
 @ul[circles](false)
 
- - Grote Reber born in Wheaton, Illinois, in 1911.
- - Got his EE in 1933.
- - Reber was already an amateur radio operator with an interest in Karl Jansky’s pioneering use of a radio antenna to detect radiation coming from the center of the Milky Way galaxy.
- - Reber couldn’t get a job with Jansky at Bell Labs, which was not hiring when Reber graduated at the height of the Depression.
- - Instead, he took a job with a radio manufacturer and built his own radio telescope in his backyard in Wheaton.
- - [source](https://www.kb6nu.com/ham-radio-news-radio-astronomy-pioneer-special-event-celebrates-1917-victory-repeater-woes/)
+- Grote Reber born in Wheaton, Illinois, in 1911.
+- Got his EE in 1933.
+- Reber was already an amateur radio operator with an interest in Karl Jansky’s pioneering use of a radio antenna to detect radiation coming from the center of the Milky Way galaxy.
+- Reber couldn’t get a job with Jansky at Bell Labs, which was not hiring when Reber graduated at the height of the Depression.
+- Instead, he took a job with a radio manufacturer and built his own radio telescope in his backyard in Wheaton.
+- [source](https://www.kb6nu.com/ham-radio-news-radio-astronomy-pioneer-special-event-celebrates-1917-victory-repeater-woes/)
 
+@ulend
 @snapend
 
 @snap[west]
@@ -354,7 +355,7 @@ Note:
 - [http://www.astro.puc.cl/~rparra/tools/ASTRONOMY/node2.html](http://www.astro.puc.cl/~rparra/tools/ASTRONOMY/node2.html)
 - Time stamping data with highest precision possible is extremely important.
 - The picture on the left shows VLBI, but illustrates cτ = [speed of light times tau](https://en.wikipedia.org/wiki/Tau_effect)
-- The picture on the right shows the geometric relationship between two RTs: a distance D, Dsin(θ), and Dcos(θ). 
+- The picture on the right shows the geometric relationship between two RTs: a distance D, Dsin(θ), and Dcos(θ).
 
 ---?image=assets/img/background.png
 @title[Computing]
@@ -643,16 +644,19 @@ RA Basics
 
 @snap[west span-70 text-07 text-yellow]
 @ul[circles](false)
+
 - JPL made a great primer for RA in 1998.
   - [Good place to start!](http://www2.jpl.nasa.gov/radioastronomy/)
 - NRAO has a [getting started](https://www.nrao.edu/epo/amateur/) site.
 - U.S. based [SARA conference](http://www.radio-astronomy.org/node/327) Aug 2-5, 2020
   - CFP is open!
   - SARA has a [getting started](http://www.radio-astronomy.org/getting-started) page.
+
+@ulend
 @snapend
 
 @snap[east]
-![amatuer](https://www.nrao.edu/epo/amateur/finished.jpg
+![amatuer](https://www.nrao.edu/epo/amateur/finished.jpg)
 @snapend
 
 Note:
@@ -695,11 +699,14 @@ Amateur Radio Telescopes
 
 @snap[west span-70 text-06 text-yellow]
 @ul[circles](false)
+
 - [teaching telescope](https://public.nrao.edu/gallery/itty-bitty-teaching-telescope/) with discarded parts
 - [budget telescope](http://www.sbrac.org/files/budget_radio_telescope.pdf) by Marcus Leech
 - Intro to Open Source Radio Telescopes: [https://youtu.be/FfsfTBkbDMA](https://youtu.be/FfsfTBkbDMA)
 - PICTOR: [https://github.com/0xCoto/PICTOR](https://github.com/0xCoto/PICTOR)
 - A cursory web search yields plenty more.
+
+@ulend
 @snapend
 
 @snap[east]
@@ -758,7 +765,7 @@ Indirect Observation
 @snapend
 
 @snap[midpoint]
-![SID span-75](http://solar-center.stanford.edu/SID/images/SID_FRONT2.jpg
+![SID span-75](http://solar-center.stanford.edu/SID/images/SID_FRONT2.jpg)
 @snapend
 
 ---?image=assets/img/background.png
