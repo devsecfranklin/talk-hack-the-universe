@@ -777,7 +777,10 @@ Radio Jove
 
 @snap[south span-70 text-left text-07 text-yellow]
 @ul[circles](false)
+
 - Decametric Telescope for Jovian observations
+
+@ulend
 @snapend
 
 @snap[midpoint]
