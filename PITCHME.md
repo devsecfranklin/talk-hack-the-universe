@@ -84,7 +84,7 @@ Introduction
 @snapend
 
 @snap[midpoint]
-@img[span-80](assets/img/game_on.jpeg)
+![Hello span-100](https://media.giphy.com/media/QQkyLVLAbQRKU/giphy.gif)
 @snapend
 
 Note:
@@ -722,8 +722,8 @@ PARI
 @ul[circles](false)
 
 - Pisgah Astronomical Research Institute in North Carolina
-  - Former NASA [Research Facility](https://www.pari.edu/timeline/)
-- You can volunteer your time, energy, and dollars to support their efforts.
+  - Former N(A)SA [Research Facility](https://www.pari.edu/timeline/)
+- You can volunteer your time, energy, and dollars to support their efforts. Just visiting is OK too!
 
 @snapend
 
