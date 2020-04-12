@@ -353,14 +353,254 @@ Interesting Computing Challenges Arise Quickly
 ---?image=assets/img/background.png
 @title[Trip to GB]
 
-@snap[west span-100 text-center text-yellow]
-SARA Conference at Green Bank, WV
+@snap[north span-100 text-center text-yellow]
+SARA Conference at NRAO Green Bank, WV
 @snapend
+
+@snap[midpoint]
+![sign](assets/img/dcp_0828.jpg)
+@snapend
+
+Note:
+
+- [https://public.nrao.edu/gallery/green-bank-observatory/](https://public.nrao.edu/gallery/green-bank-observatory/)
 
 ---?image=assets/img/background.png
 @title[Main Bldg]
 
-So what does one do at a Radio Astronomy Conference? We spent our days in this building, known as the Karl Janksy Laboratory, listening to lectures from professional astronomers and physicists, and enjoying presentations from the members of the club.
+@snap[midpoint]
+![main_bldg](assets/img/dcp_0799.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+So what does one do at a Radio Astronomy Conference?
+@snapend
+
+Note:
+
+- We spent our days in this building, known as the Karl Janksy Laboratory.
+- We listened to lectures from professional astronomers and physicists, and enjoyed presentations from the members of the club.
+
+---?image=assets/img/background.png
+@title[dorms]
+
+@snap[midpoint]
+![dorms](assets/img/dcp_0793.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+Dorm rooms & Cafeteria
+@snapend
+
+Note:
+
+- In this picture, you can see the dormitories on the left and the cafeteria on the right. 
+- You can also see the row of bicycles painted powder blue near the dorm entrance.
+- These were provided as a courtesy and our main mode of transportation around the site!
+
+---?image=assets/img/background.png
+@title[dorms2]
+
+@snap[midpoint]
+![dorms2](assets/img/dcp_0808.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+Frank Drake Lounge
+@snapend
+
+Note:
+
+-On the second floor of the dormitories above the entrance, we have the Frank Drake lounge.
+- Where you see a fireplace in this picture now, there used to be a chalk board where he introduced the now famous Drake Equation.
+- This room also has a small kitchen and a library.
+
+---?image=assets/img/background.png
+@title[raffle]
+
+@snap[south span-100 text-06 text-yellow]
+Free Stuff!
+@snapend
+
+@snap[midpoint]
+![raffle](assets/img/dcp_0830.jpg)
+@snapend
+
+Note:
+
+- The Green Bank staff were extremely accommodating to our club.
+- One nice thing they did was to turn over some of their older surplus equipment to our club for our projects!
+- We drew names out of a hat to decide who got what.
+- Here we see everyone perusing the boxes to see what they might grab in the raffle.
+
+---?image=assets/img/background.png
+@title[tour]
+
+@snap[midpoint]
+![tour](assets/img/dcp_0832.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+Touring the facility
+@snapend
+
+Note:
+
+- Part of the tour.
+- Here we are listening to a talk by Gary Anderson on the calibration of the 327 mHz feed for the 100 meter Green Bank Telescope.
+
+---?image=assets/img/background.png
+@title[tour2]
+
+@snap[midpoint]
+![tour2](assets/img/dcp_0814.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+NRAO Green Bank is a [National Radio quiet zone](https://science.nrao.edu/facilities/gbt/interference-protection/nrqz/)
+@snapend
+
+Note:
+
+- Radio Telescopes are extremely sensitive instruments.
+- The spark plugs from the combustion engine in an automobile can be disruptive to the receivers that make up the "back end" of the scope.
+- For this reason, cars are not allowed near the dishes. No rule against bicycles though!
+
+---?image=assets/img/background.png
+@title[diesel]
+
+@snap[midpoint]
+![diesel](assets/img/dcp_0803.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+Diesel fuel powered vehicles
+@snapend
+
+Note:
+
+- Not to worry, we have an alternate means of transportation.
+  - Diesel powered cars courtesy of Uncle Sam!
+
+---?image=assets/img/background.png
+@title[diesel2]
+
+@snap[south span-100 text-06 text-yellow]
+Let's go for a ride...
+@snapend
+
+@snap[midpoint]
+![diesel2](assets/img/dcp_0816.jpg)
+@snapend
+
+Note:
+
+- [diesel vehicles](https://public.nrao.edu/ask/a-question-about-the-checker-cab-diesel-vehicles-used-at-the-green-bank-telescope-facility/)
+
+---?image=assets/img/background.png
+@title[40foot]
+
+@snap[south span-100 text-06 text-yellow]
+This is the 40 foot Radio Telescope where we spent our evenings 
+(and much of the night for that matter). 
+@snapend
+
+@snap[midpoint]
+![40foot](assets/img/dcp_0820.jpg)
+@snapend
+
+---?image=assets/img/background.png
+@title[40foot2]
+
+@snap[south span-100 text-06 text-yellow]
+We are entering this small building that is halfway below ground.
+@snapend
+
+@snap[midpoint]
+![40foot2](assets/img/dcp_0821.jpg)
+@snapend
+
+---?image=assets/img/background.png
+@title[backend]
+
+@snap[midpoint]
+![backend](assets/img/dcp_0825.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+Here are the back end electronics for the 40 foot dish.
+@snapend
+
+Note:
+
+- Electromagnetic energy received at the dish is converted from RF (Radio Frequency) to IF (Intermediate Frequency) by mixing it with the output from an oscillator. 
+- The IF signal then comes into the rack to my right where it can be attenuated and/or strengthened.
+- Finally, it is turned into a voltage that we can see on the strip chart (printout)!
+
+---?image=assets/img/background.png
+@title[observing]
+
+@snap[south span-100 text-06 text-yellow]
+Here I get a chance to do some observing.
+@snapend
+
+@snap[midpoint]
+![observing span-85](assets/img/dcp_0845.jpg)
+@snapend
+
+Note:
+
+- The strip chart is nice, but they have since updated everything to computer control (not pictured). 
+- The data collection is also computer conteroled now, which I much prefer.
+
+---?image=assets/img/background.png
+@title[gbt]
+
+@snap[midpoint]
+![gbt](assets/img/dcp_0836.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+[Green Bank Telescope](https://public.nrao.edu/telescopes/gbt/)
+@snapend
+
+Note:
+
+- We were also taken down to see one of the largest radio telescopes in the world. 
+- These pictures really don't do its size justice.
+
+---?image=assets/img/background.png
+@title[gbt2]
+
+@snap[midpoint]
+![gbt2](assets/img/dcp_0842.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+[Green Bank Telescope](https://public.nrao.edu/telescopes/gbt/)
+@snapend
+
+Note:
+
+- This structure weighs around 16 million tons and is taller than the Statue of Liberty. 
+- I counted twenty stories up just to get to the bottom of the dish!
+
+---?image=assets/img/background.png
+@title[gbt3]
+
+@snap[midpoint]
+![gbt3](assets/img/dcp_0839.jpg)
+@snapend
+
+@snap[south span-100 text-06 text-yellow]
+NRAO Guided Tour
+@snapend
+
+Note:
+
+- Once again our professional counterparts at NRAO come through with the guided tour. 
+-The people on the regular tours had to stay outside the fence a quarter of a mile away! 
+- Certainly a strong argument for seeking club membership.
 
 ---?image=assets/img/background.png
 @title[Ready]
