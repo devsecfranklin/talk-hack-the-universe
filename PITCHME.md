@@ -13,7 +13,7 @@ Amateur Radio Astronomy
 @title[Bio]
 
 @snap[west]
-![span-50](assets/img/us.jpg)
+![span-100](assets/img/2730246.jpg)
 @snapend
 
 @snap[north-east span-45 text-08]
@@ -394,7 +394,7 @@ Dorm rooms & Cafeteria
 
 Note:
 
-- In this picture, you can see the dormitories on the left and the cafeteria on the right. 
+- In this picture, you can see the dormitories on the left and the cafeteria on the right.
 - You can also see the row of bicycles painted powder blue near the dorm entrance.
 - These were provided as a courtesy and our main mode of transportation around the site!
 
@@ -411,7 +411,7 @@ Frank Drake Lounge
 
 Note:
 
--On the second floor of the dormitories above the entrance, we have the Frank Drake lounge.
+- On the second floor of the dormitories above the entrance, we have the Frank Drake lounge.
 - Where you see a fireplace in this picture now, there used to be a chalk board where he introduced the now famous Drake Equation.
 - This room also has a small kitchen and a library.
 
@@ -501,8 +501,7 @@ Note:
 @title[40foot]
 
 @snap[south span-100 text-06 text-yellow]
-This is the 40 foot Radio Telescope where we spent our evenings 
-(and much of the night for that matter). 
+This is the 40 foot Radio Telescope where we spent our evenings (and much of the night for that matter).
 @snapend
 
 @snap[midpoint]
@@ -533,7 +532,7 @@ Here are the back end electronics for the 40 foot dish.
 
 Note:
 
-- Electromagnetic energy received at the dish is converted from RF (Radio Frequency) to IF (Intermediate Frequency) by mixing it with the output from an oscillator. 
+- Electromagnetic energy received at the dish is converted from RF (Radio Frequency) to IF (Intermediate Frequency) by mixing it with the output from an oscillator.
 - The IF signal then comes into the rack to my right where it can be attenuated and/or strengthened.
 - Finally, it is turned into a voltage that we can see on the strip chart (printout)!
 
@@ -550,7 +549,7 @@ Here I get a chance to do some observing.
 
 Note:
 
-- The strip chart is nice, but they have since updated everything to computer control (not pictured). 
+- The strip chart is nice, but they have since updated everything to computer control (not pictured).
 - The data collection is also computer conteroled now, which I much prefer.
 
 ---?image=assets/img/background.png
@@ -566,7 +565,7 @@ Note:
 
 Note:
 
-- We were also taken down to see one of the largest radio telescopes in the world. 
+- We were also taken down to see one of the largest radio telescopes in the world.
 - These pictures really don't do its size justice.
 
 ---?image=assets/img/background.png
@@ -582,7 +581,7 @@ Note:
 
 Note:
 
-- This structure weighs around 16 million tons and is taller than the Statue of Liberty. 
+- This structure weighs around 16 million tons and is taller than the Statue of Liberty.
 - I counted twenty stories up just to get to the bottom of the dish!
 
 ---?image=assets/img/background.png
@@ -598,8 +597,8 @@ NRAO Guided Tour
 
 Note:
 
-- Once again our professional counterparts at NRAO come through with the guided tour. 
--The people on the regular tours had to stay outside the fence a quarter of a mile away! 
+- Once again our professional counterparts at NRAO come through with the guided tour.
+- The people on the regular tours had to stay outside the fence a quarter of a mile away!
 - Certainly a strong argument for seeking club membership.
 
 ---?image=assets/img/background.png
