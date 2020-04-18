@@ -1,6 +1,2 @@
 .vscode
-reports/*
 .DS_Store
-.tox/
-__pycache__
-MANIFEST
