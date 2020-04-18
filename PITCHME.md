@@ -5,8 +5,12 @@
 Hack the Universe
 @snapend
 
-@snap[west span-100 text-center text-yellow]
-Amateur Radio Astronomy
+@snap[south span-100 text-14 text-bold text-center text-yellow]
+Happy #WorldAmateurRadioDay April 18th, 2020
+@snapend
+
+@snap[midpoint]
+![distance](assets/img/distance.jpeg)
 @snapend
 
 ---?image=assets/img/black_and_blue.jpeg
@@ -40,7 +44,6 @@ Note:
 
 ---?image=assets/img/background.png
 @title[Disclaimer]
-@transition[zoom-in fade-out]
 
 @snap[north-west span-80 text-20 text-bold text-yellow]
 Disclaimer
@@ -84,7 +87,7 @@ Introduction
 @snapend
 
 @snap[midpoint]
-![Hello span-100](https://media.giphy.com/media/QQkyLVLAbQRKU/giphy.gif)
+![IMAGE span-110](assets/img/myself.jpeg)
 @snapend
 
 Note:
@@ -340,7 +343,7 @@ Simply put, physically linking or correlating data from two or more radio telesc
 @snapend
 
 @snap[south span-35 text-06 text-yellow]
-Consider these dishes at the VLA in Socorro, NM.
+Consider the dishes at the VLA in Socorro, NM.
 @snapend
 
 @snap[south-east span-35 text-06 text-yellow]
@@ -367,7 +370,7 @@ Interesting Computing Challenges Arise Quickly
 @snap[west span-70 text-left text-07 text-yellow]
 @ul[circles](false)
 
-- Sheer bulk of data coming in is challenging, esp w/ interferometry
+- Amount of data coming in is challenging, esp with interferometry
 - Post processing in a timely manner
 - Correlation of Interferometric data can be challenging.
 - Need for extreme clock precision and sync.
@@ -820,6 +823,25 @@ Note:
   - Avoid the math heavy textbooks unless you're into that sort of thing.
 
 ---?image=assets/img/background.png
+@title[SpaceX]
+
+@snap[south span-70 text-08 text-yellow]
+@ul[circles](false)
+
+- Check out the [Launch America](https://www.nasa.gov/specials/dm2/) website!
+
+@ulend
+@snapend
+
+@snap[west span-50 text-30 text-bold text-yellow]
+SOON
+@snapend
+
+@snap[east]
+![span-50](assets/img/spacex_falcon9.jpeg)
+@snapend
+
+---?image=assets/img/background.png
 @title[Thank You]
 
 @snap[north-west span-100 text-20 text-bold text-center text-yellow]
@@ -837,5 +859,5 @@ Thank You
 @snapend
 
 @snap[midpoint]
-![Thank You](https://media.giphy.com/media/3oKIPfFs4hPHemcU6I/giphy.gif)
+![thanks span-70](assets/img/thanks.jpeg)
 @snapend
