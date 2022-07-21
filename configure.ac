@@ -12,7 +12,7 @@ AC_CONFIG_COMMANDS([franklin-build],
  [mypkgname=$PACKAGE_NAME])
 AC_CONFIG_FILES([
  Makefile
- paper/Makefile
+ talk/Makefile
 ])
 
 dnl le python

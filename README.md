@@ -2,7 +2,7 @@
 
 [![Build LaTeX document](https://github.com/devsecfranklin/talk-hack-the-universe/actions/workflows/latex.yml/badge.svg)](https://github.com/devsecfranklin/talk-hack-the-universe/actions/workflows/latex.yml) [![DOI](https://zenodo.org/badge/429877734.svg)](https://zenodo.org/badge/latestdoi/429877734)
 
-![Parkes](https://github.com/devsecfranklin/talk-hack-the-universe/blob/main/assets/img/Parkes_radio_telescope.jpg)<br>*Parkes Radio Telescope*
+![Parkes](https://github.com/devsecfranklin/talk-hack-the-universe/blob/main/images/dcp_0828.jpg)<br>*NRAO Green Bank*
 
 - [Original talk on Google slides, presented in 2017](https://docs.google.com/presentation/d/15SsmWDigwKuY_t6yHhm1zHls5Sz6r3hq3XSGUgyuw-M/)
 
