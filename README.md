@@ -1,6 +1,6 @@
 # Hack the Universe
 
-[![Build LaTeX document](https://github.com/devsecfranklin/talk-hack-the-universe/actions/workflows/latex.yml/badge.svg)](https://github.com/devsecfranklin/talk-hack-the-universe/actions/workflows/latex.yml) [![DOI](https://zenodo.org/badge/429877734.svg)](https://zenodo.org/badge/latestdoi/429877734)
+[![Build LaTeX document](https://github.com/devsecfranklin/talk-hack-the-universe/actions/workflows/latex.yaml/badge.svg)](https://github.com/devsecfranklin/talk-hack-the-universe/actions/workflows/latex.yaml) [![DOI](https://zenodo.org/badge/429877734.svg)](https://zenodo.org/badge/latestdoi/429877734)
 
 ![Parkes](https://github.com/devsecfranklin/talk-hack-the-universe/blob/main/images/dcp_0828.jpg)<br>*NRAO Green Bank*
 
